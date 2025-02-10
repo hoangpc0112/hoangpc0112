@@ -1,7 +1,13 @@
 <img src="github.gif" alt="GitHub GIF" width="100%"/>
 
 # Hello World👋 I'm HoangPC, a Vietnamese Coder🔥
-🏫 Studying Cyber Security at Posts and Telecommunications Institute of Technology (PTIT)
+I am pursuing a degree in Cyber Security at the Posts and Telecommunications Institute of Technology (PTIT).
+<h2>🌱 Currently Studying:</h2>
+        <ul>
+            <li>Artificial Intelligence</li>
+            <li>Machine Learning</li>
+            <li>JLPT N3</li>
+        </ul>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
     <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
