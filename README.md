@@ -1,4 +1,4 @@
-<img src="github.webp" alt="GitHub" width="100%" height="349px"/>
+<img src="github.webp" alt="GitHub" width="100%" aspect-ratio="1700 / 586"/>
 
 # Hello World👋 I'm HoangPC, a Vietnamese Coder🔥
 I am pursuing a degree in Cyber Security at the Posts and Telecommunications Institute of Technology (PTIT).
